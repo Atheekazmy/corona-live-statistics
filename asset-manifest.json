@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/corona-live-statistics/static/css/main.152e2d80.chunk.css",
-    "main.js": "/corona-live-statistics/static/js/main.4f319e72.chunk.js",
-    "main.js.map": "/corona-live-statistics/static/js/main.4f319e72.chunk.js.map",
+    "main.js": "/corona-live-statistics/static/js/main.95f52261.chunk.js",
+    "main.js.map": "/corona-live-statistics/static/js/main.95f52261.chunk.js.map",
     "runtime-main.js": "/corona-live-statistics/static/js/runtime-main.97413f8f.js",
     "runtime-main.js.map": "/corona-live-statistics/static/js/runtime-main.97413f8f.js.map",
     "static/css/2.de424728.chunk.css": "/corona-live-statistics/static/css/2.de424728.chunk.css",
-    "static/js/2.784a192a.chunk.js": "/corona-live-statistics/static/js/2.784a192a.chunk.js",
-    "static/js/2.784a192a.chunk.js.map": "/corona-live-statistics/static/js/2.784a192a.chunk.js.map",
+    "static/js/2.33e5afb2.chunk.js": "/corona-live-statistics/static/js/2.33e5afb2.chunk.js",
+    "static/js/2.33e5afb2.chunk.js.map": "/corona-live-statistics/static/js/2.33e5afb2.chunk.js.map",
     "index.html": "/corona-live-statistics/index.html",
-    "precache-manifest.3e5caf658d5cfe5c88c4ceab791f539f.js": "/corona-live-statistics/precache-manifest.3e5caf658d5cfe5c88c4ceab791f539f.js",
+    "precache-manifest.43120202559d6e64cf000fd35e61b43f.js": "/corona-live-statistics/precache-manifest.43120202559d6e64cf000fd35e61b43f.js",
     "service-worker.js": "/corona-live-statistics/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/corona-live-statistics/static/css/2.de424728.chunk.css.map",
     "static/css/main.152e2d80.chunk.css.map": "/corona-live-statistics/static/css/main.152e2d80.chunk.css.map",
-    "static/js/2.784a192a.chunk.js.LICENSE.txt": "/corona-live-statistics/static/js/2.784a192a.chunk.js.LICENSE.txt",
+    "static/js/2.33e5afb2.chunk.js.LICENSE.txt": "/corona-live-statistics/static/js/2.33e5afb2.chunk.js.LICENSE.txt",
     "static/media/active.png": "/corona-live-statistics/static/media/active.473b14dc.png",
     "static/media/cured.png": "/corona-live-statistics/static/media/cured.500bea00.png",
     "static/media/death.png": "/corona-live-statistics/static/media/death.9dd59e7c.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.97413f8f.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.784a192a.chunk.js",
+    "static/js/2.33e5afb2.chunk.js",
     "static/css/main.152e2d80.chunk.css",
-    "static/js/main.4f319e72.chunk.js"
+    "static/js/main.95f52261.chunk.js"
   ]
 }
