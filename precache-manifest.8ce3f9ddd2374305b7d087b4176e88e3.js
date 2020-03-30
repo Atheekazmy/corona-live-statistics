@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01f46755b39a1b2ed28c029cad220b58",
+    "revision": "825761eca820328f8b45761a78970792",
     "url": "/corona-live-statistics/index.html"
   },
   {
-    "revision": "9dd1c03ea72a8a30ba5c",
+    "revision": "a70e5427feb9d95197df",
     "url": "/corona-live-statistics/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "41e2bde1954b52753724",
+    "revision": "5d8f40849297f29ba6de",
     "url": "/corona-live-statistics/static/css/main.152e2d80.chunk.css"
   },
   {
-    "revision": "9dd1c03ea72a8a30ba5c",
-    "url": "/corona-live-statistics/static/js/2.33e5afb2.chunk.js"
+    "revision": "a70e5427feb9d95197df",
+    "url": "/corona-live-statistics/static/js/2.e48842ec.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/corona-live-statistics/static/js/2.33e5afb2.chunk.js.LICENSE.txt"
+    "url": "/corona-live-statistics/static/js/2.e48842ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41e2bde1954b52753724",
-    "url": "/corona-live-statistics/static/js/main.f967c18d.chunk.js"
+    "revision": "5d8f40849297f29ba6de",
+    "url": "/corona-live-statistics/static/js/main.2a73b13c.chunk.js"
   },
   {
     "revision": "29c0cb84803d054871f5",
