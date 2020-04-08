@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2067e7758f0fbb822e2e128df42f7bbd",
+    "revision": "50bb791e4097babd1d18afee98f61eda",
     "url": "/corona-live-statistics/index.html"
   },
   {
-    "revision": "2b8b96a5a050bb021413",
+    "revision": "8930fd4c9f46b4b3b8f8",
     "url": "/corona-live-statistics/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "5a565ef25783c4b715a1",
+    "revision": "75f60c3d4a0ab43a5b8f",
     "url": "/corona-live-statistics/static/css/main.152e2d80.chunk.css"
   },
   {
-    "revision": "2b8b96a5a050bb021413",
-    "url": "/corona-live-statistics/static/js/2.c64552eb.chunk.js"
+    "revision": "8930fd4c9f46b4b3b8f8",
+    "url": "/corona-live-statistics/static/js/2.8506e388.chunk.js"
   },
   {
-    "revision": "14dc907096ff79e6b7be55307d0260dd",
-    "url": "/corona-live-statistics/static/js/2.c64552eb.chunk.js.LICENSE.txt"
+    "revision": "cc7f4817303dc5ae24c42d02bfaefb45",
+    "url": "/corona-live-statistics/static/js/2.8506e388.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a565ef25783c4b715a1",
-    "url": "/corona-live-statistics/static/js/main.f21ab981.chunk.js"
+    "revision": "75f60c3d4a0ab43a5b8f",
+    "url": "/corona-live-statistics/static/js/main.2a7acf11.chunk.js"
   },
   {
     "revision": "29c0cb84803d054871f5",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e99efcdaa0f983238e702b7d00ffc21",
     "url": "/corona-live-statistics/static/media/pin.5e99efcd.png"
+  },
+  {
+    "revision": "136490c6520a71f990991b6010897d7a",
+    "url": "/corona-live-statistics/static/media/world.136490c6.png"
   }
 ]);
